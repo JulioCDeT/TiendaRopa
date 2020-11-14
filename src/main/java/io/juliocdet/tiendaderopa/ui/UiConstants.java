@@ -5,11 +5,10 @@ public interface UiConstants {
     String NEW_LINE = System.lineSeparator();
 
     String MENU_PRINCIPAL = new StringBuilder()
-
             .append("************************").append(NEW_LINE)
             .append("** Tu Tienda sde ropa **").append(NEW_LINE)
             .append("************************").append(NEW_LINE)
-            .append("Selecciona entre las siguientes optiones:").append(NEW_LINE)
+            .append("Selecciona entre las siguientes oppiones:").append(NEW_LINE)
             .append("1) Clientes").append(NEW_LINE)
             .append("2) Comprar").append(NEW_LINE)
             .toString();
