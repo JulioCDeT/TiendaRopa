@@ -1,9 +1,7 @@
 package io.juliocdet.tiendaderopa.model;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.UUID;
 
 import static io.juliocdet.tiendaderopa.model.Constants.DESCUENTO_EMPLEADO;
